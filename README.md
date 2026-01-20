@@ -8,7 +8,7 @@ This project showcases my frontend fundamentals, clean code practices, and exper
 
 ## 🚀 Live Preview
 🎥 **Project Demo Video:**  
-👉 *([video/cinnamon-2026-01-20T213958+0530.webm](https://github.com/user-attachments/assets/115d4578-c895-4ad1-84a3-4b23a28a452f))*
+👉 *(https://github.com/user-attachments/assets/115d4578-c895-4ad1-84a3-4b23a28a452f)*
 
 ---
 
