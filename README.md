@@ -5,13 +5,6 @@ A simple, fast, and responsive notes-keeping web application built using **Vanil
 This project showcases my frontend fundamentals, clean code practices, and experience with modern build tools.
 
 ---
-
-## 🚀 Live Preview
-🎥 **Project Demo Video:**  
-👉 *(https://github.com/user-attachments/assets/115d4578-c895-4ad1-84a3-4b23a28a452f)*
-
----
-
 ## 📸 Screenshots
 
 ### 🖥️ Home Page
