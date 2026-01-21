@@ -22,6 +22,9 @@ This project showcases my frontend fundamentals, clean code practices, and exper
 > 📌 Create a folder named **screenshots/** in your project root and place images there.
 
 ---
+## 🌐 Live Demo
+👉 https://harika655.github.io/googlekeepproject/
+
 
 ## ✨ Features
 - Create, edit, and delete notes  
