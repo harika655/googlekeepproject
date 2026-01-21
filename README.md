@@ -1,4 +1,4 @@
-# 📝 NoteVault – Notes Keeping Web App
+# 📝 Google Keep Project Web App
 
 A simple, fast, and responsive notes-keeping web application built using **Vanilla JavaScript** and **Vite**.
 
